@@ -1,3 +1,4 @@
 # markdown-preview vim plugin
 
-![Architecture](/markdown-preview_vim/markdown-preview_vim2.drawio.svg)
+## Architectureg![](/markdown-preview_vim/markdown-preview_vim.drawio.svg)
+<img src="/markdown-preview_vim/markdown-preview_vim.drawio.svg" width="800"/>

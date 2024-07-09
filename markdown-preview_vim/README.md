@@ -1,35 +1,33 @@
-# markdown-preview vim plugin
+# markdown previewer
 
-## Architecture
+## Summary Frame
+![](/mardown-preview_vim/markdown-preview_framework_summary.drawio.svg)
 
-![](/markdown-preview_vim/markdown-preview_vim.drawio.svg)
-
-# Framework
-
+## Detail Frame
 ![](/markdown-preview_vim/markdown-preview_framework.drawio.svg)
 
 ## Todo
 - CLI
     - [ ] コマンドラインパーサーの実装
 - Parser
-    - [] AST Interfaceの設計
-    - [] AST Interfaceのmarkdown-rsの実装
-    - [] 拡張用APIの設計
-    - [] 拡張用APIの実装
+    - [ ] AST Interfaceの設計
+    - [ ] AST Interfaceのmarkdown-rsの実装
+    - [ ] 拡張用APIの設計
+    - [ ] 拡張用APIの実装
 - Renderer
     - Other Node
-        - [] ASCII Rendererの実装
-        - [] HTML Rendererの実装
+        - [ ] ASCII Rendererの実装
+        - [ ] HTML Rendererの実装
     - Mermaid
-        - [] MermaidParser
+        - [ ] MermaidParser
         - MermaidRenderer
-            - [] ASCII
-            - [] Image
+            - [ ] ASCII
+            - [ ] Image
     - KaTeX
-        - [] KaTeX Parser
+        - [ ] KaTeX Parser
         - KaTeXRenderer
-            - [] ASCII
-            - [] Image
+            - [ ] ASCII
+            - [ ] Image
 - Drawer
     - TerminalDrawer
         - ImageDrawer
@@ -40,4 +38,3 @@
         - HTML
         - ePUB
 - Preview Function(for Terminal, Browser)
-    - 

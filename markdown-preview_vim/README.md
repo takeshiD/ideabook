@@ -20,3 +20,4 @@
 [] mermaid
     [] 動作検証
 [] denops環境構築
+    [] [deno入門](/markdown-preview_vim/memo/deno.md)

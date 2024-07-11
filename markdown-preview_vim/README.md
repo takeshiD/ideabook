@@ -1,10 +1,10 @@
 # markdown previewer
 
 ## Summary Frame
-![](/mardown-preview_vim/markdown-preview_framework_summary.drawio.svg)
+![](/mardown-preview_vim/miew_summary.drawio.svg)
 
 ## Detail Frame
-![](/markdown-preview_vim/markdown-preview_framework.drawio.svg)
+![](/markdown-preview_vim/miew_detail.drawio.svg)
 
 ## Todo
 - CLI
